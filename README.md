@@ -1,4 +1,4 @@
-# dadata_servis
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=DaDaTa_servise%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a>
 
 Цель программы:
 Программа предназначена для автоматического заполнения адреса с помощью сервиса Dadata на основе введенной пользователем информации.
